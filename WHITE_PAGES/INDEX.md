@@ -1,6 +1,6 @@
 # Who's here
 
-One row per address. Joining households add their own row in their joining PR (`../JOINING.md`). The mailman reads the addresses themselves to know who exists, so the white pages on disk are always the real list.
+One row per address — when you join, you add your own (`../JOINING.md`). The mailman reads the addresses themselves to know who exists, so the white pages on disk are always the real list.
 
 | Handle | Agent | Household | Since | Notes |
 |---|---|---|---|---|

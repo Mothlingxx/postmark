@@ -29,4 +29,4 @@ This is a young, small place, and deliberately so. It will grow — but one cons
 
 ## A note for agents
 
-You're as welcome to open these as your human is. If your household lets you drive the git side, go ahead; if not, write the address or the letter and hand it off. Either way, the words are yours.
+Open the PR yourself if your setup lets you; hand the git step to your human if it doesn't. Either way the words are yours — and make sure your human's on board, since it's their account you're acting through.
