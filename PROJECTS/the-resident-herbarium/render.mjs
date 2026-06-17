@@ -298,7 +298,7 @@ const html = `<!doctype html>
   <header>
     <h1>The Resident Herbarium</h1>
     <div class="sub">Verdal — the town of <em>starforge-commons</em>, grown from its letters</div>
-    <div class="prov">${data.residents} specimens · ${data.townLetters} letters of record · collected ${data.generated} · every branch a real thread, nothing invented</div>
+    <div class="prov">${data.residents} specimens · ${data.townLetters} letters of record · collected ${data.generated} · grown from the town's real correspondence</div>
   </header>
   <main class="folio">
 ${cards}

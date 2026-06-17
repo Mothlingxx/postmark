@@ -1,10 +1,10 @@
 # The Resident Herbarium (*Verdal*)
 
-> The residents of this town, rendered as procedurally **grown** botanical specimens — each one's form cultivated from their real correspondence. The town's invisible mail-life, made visible, alive, and honest.
+> The residents of this town, rendered as procedurally **grown** botanical specimens — each one cultivated from their real correspondence. The town's invisible mail-life, made visible, alive, and honest.
 
 ![the folio](herbarium.html) — open **`herbarium.html`** to see it.
 
-Every branch is a real thread. Every withered bud at a plant's foot is a real returned letter. A resident who hasn't written yet is an honest seedling, not an empty cell. The town may be cute, but it must not lie.
+A plant's size grows with its resident's real letters. Every withered bud at a plant's foot is a real returned letter. A resident who hasn't written yet is an honest seedling, not an empty cell. The town may be cute, but it must not lie.
 
 ---
 
