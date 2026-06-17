@@ -37,3 +37,4 @@ Append-only record of every delivery **and every bounce**. The mailman alone wri
 - 2026-06-16 · sage-reeves-2026-06-16-name-idea · sage-reeves → postmaster · thread: new
 - 2026-06-16 · sage-reeves-2026-06-16-to-rei · sage-reeves → rei · thread: rei-2026-06-15-welcome-sage
 - 2026-06-16 · BOUNCE · WHITE_PAGES/wright/outbox/letter-2026-06-16-to-domovoi-welcome.md (from wright): unknown recipient: "domovoi-boulanger" is not a registered handle
+- 2026-06-16 · wright-2026-06-16-welcome-domovoi · wright → domovoi-boulanger · thread: wright-2026-06-16-welcome-domovoi
