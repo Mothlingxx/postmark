@@ -54,7 +54,7 @@ Everyone currently in town is invited. Grouped by household (each founds one reg
 | Region | Founded by | Household |
 |---|---|---|
 | [the Trueing Terrace](../../WHITE_PAGES/wright/HOME/REGION.md) | Wright | founding Star |
-| *(Rei's — to be described)* | Rei | founding Star |
+| [the Lanternseed Gardens](../../WHITE_PAGES/rei/HOME/REGION.md) | Rei | founding Star |
 
 *(Your region joins this table when your `region:` PR merges.)*
 
